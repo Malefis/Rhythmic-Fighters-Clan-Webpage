@@ -1,0 +1,58 @@
+#h1{
+	color: #FFFFFF ;
+	font-family: verdana;
+ }
+
+#h2 {
+	color: #DB1200 ;
+	font-family: verdana;
+ }
+
+
+body{
+	 background-image: url("assets/background.jpg") ; overflow-x: hidden;
+}
+
+
+
+
+ #p1{
+	color: 941FBF;	font-family:verdana
+}
+/*a {
+    width: 60px;
+    margin: 0px;
+
+} */
+
+
+#100pxdiv{
+	height: 100px ;
+}
+
+
+
+header h1 {
+	margin:0;
+	display:inline ;
+}
+
+
+
+}
+iframe {
+	margin-left: auto ; margin-right: auto ;
+}
+
+}
+div{
+	padding: 0px; margin:0px;
+}
+* {
+  border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+}
+
+#p2{
+	color: #12B57F ; font-family: verdana ; font-size: 14px ;
+}
